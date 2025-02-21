@@ -1,4 +1,4 @@
 # Demo
 This is my first Git repository
 <br>
-Author - Rishabh Kumar singh
+Author - Rishabh(Kumar singh)
